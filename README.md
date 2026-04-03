@@ -7,7 +7,7 @@ Frontend developer transitioning into **Data Analytics**. I bring a strong found
 ## 🔍 What I'm working on
 
 - 📊 Building out my **[Data Analytics Portfolio](https://github.com/zankhana2527/data-analytics-portfolio)** — real-world projects using Python, SQL, and data visualization
-- 🧠 Deepening my skills in **pandas, SQL, and exploratory data analysis**
+- 🧠 Deepening my skills in **SQL, Python, Tableau, Power BI and EDA**
 - 🔄 Bridging my frontend experience with data storytelling
 
 ---
